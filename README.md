@@ -29,29 +29,23 @@ Sass: Para compilação dos arquivos SCSS.
 Instalação
 Clone este repositório:
 
-bash
-Copy code
-git clone https://github.com/0ldev/melodia.git
+        git clone https://github.com/0ldev/melodia.git
 Navegue até o diretório do projeto:
 
-bash
-Copy code
-cd melodia
+
+        cd melodia
 Instale as dependências necessárias:
 
-bash
-Copy code
-npm install
+
+        npm install
 Compile o arquivo SCSS para CSS:
 
-bash
-Copy code
-sass scss/style.scss css/style.css
+
+        sass scss/style.scss css/style.css
 Ou utilize o modo de observação para compilar automaticamente ao salvar alterações:
 
-bash
-Copy code
-sass --watch scss/style.scss css/style.css
+
+        sass --watch scss/style.scss css/style.css
 Uso
 Abra o arquivo index.html no seu navegador:
 
@@ -65,7 +59,14 @@ Utilize o formulário de contato para simular o envio de uma mensagem.
 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
+
 Contato
-Autor: Albert Katri RM556544
-E-mail: rm556544@fiap.com.br
+
+
+Autor: Albert Katri RM556544, Bruno Dominicheli RM554981
+
+
+E-mail: rm556544@fiap.com.br, RM554981@fiap.com.br
+
+
 GitHub: github.com/0ldev
