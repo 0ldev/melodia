@@ -63,10 +63,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 Contato
 
 
-Autor: Albert Katri RM556544, Bruno Dominicheli RM554981
-
-
-E-mail: rm556544@fiap.com.br, RM554981@fiap.com.br
-
-
-GitHub: github.com/0ldev
+Autores: Albert Katri RM556544, Bruno Dominicheli RM554981, Larissa Rodrigues Lapa RM554517,Nicolly Ramalho Bleinat 
